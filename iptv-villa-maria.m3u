@@ -3295,12 +3295,6 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
 http://streaming.latina101.com.ar:8080/RadioLatina
 #EXTINF: -1 tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIOS", La patriada 102.1
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIOS", ASPEN 102.3
-https://19173.live.streamtheworld.com/ASPENAAC_SC
-#EXTINF: -1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/142736269_424638608880717_8684070971724744149_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGjw37pJpOc64CEQzDM0FtLcb1ljI54fDlxvWWMjnh8Obq0L8GDH2JRXBkNOsocq4Y&_nc_ohc=w6A41CAMupcAX_CA3bY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=2daeb235430ccac1da7fc3c40191f6b5&oe=60E42D54" group-title="RADIOS", FM PREMIUM 98.9 FM VILLA MARÍA CORDOBA
-https://stream.zeno.fm/cvvvykmtpg8uv
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIOS", RADIO MITRE
-https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIOS", LA 100
 https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 #EXTINF: -1 tvg-chno="3" tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIOS", BEATS  - 100.5 FM - TIGRE
@@ -3309,12 +3303,6 @@ https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
 https://panel.dattalive.com/8034/8034/playlist.m3u8
 #EXTINF: -1 tvg-chno="5" tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIOS", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
-#EXTINF: -1 tvg-chno="6" tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIOS", FM COMUNICAR 90.7 FM COLONIA CAROYA
-https://panel.dattalive.com/canal907/canal907/playlist.m3u8
-#EXTINF: -1 tvg-chno="7" tvg-logo="https://okfmarroyito.com/wp-content/uploads/2018/03/RADIO-EN-VIVO.jpg" group-title="RADIOS", 95.5 FM OK ARROYITO CORDOBA
-https://inliveserver.com:1936/14062/14062/playlist.m3u8
-#EXTINF: -1 tvg-chno="8" tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIOS", CIUDAD MAGICA 105.1 FM AUSONIA
-https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 #EXTINF: -1 tvg-chno="9" tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIOS", AM 1020 SAN JUAN
 http://51.79.83.93:9998/live/am1020/chunks.m3u8
 #EXTINF: -1 tvg-chno="10" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIOS", FM LIGHT 97.3 SAN JUAN
@@ -3329,22 +3317,16 @@ https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_a
 https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
 #EXTINF: -1 tvg-chno="15" tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIOS", FM LATINA 94.5 ROSARIO
 http://streaming.arcast.com.ar:1935/fmlatina/fmlatina/playlist.m3u8
-#EXTINF: -1 tvg-chno="16" tvg-logo="https://rbdweb.com/wp-content/uploads/2020/03/MARCA-BLANCA.png" group-title="RADIOS", BEST DIGITAL ROSARIO
-https://5975e06a1f292.streamlock.net:4443/beatvideo/beatvideo/playlist.m3u8
 #EXTINF: -1 tvg-chno="17" tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIOS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
 #EXTINF: -1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIOS", VORTERIX - 92.1 FM BUENOS AIRES
 https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 #EXTINF: -1 tvg-chno="19" tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIOS", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
-#EXTINF: -1 tvg-chno="20" tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIOS", SEÑAL URBANA 98.9 FM VERONICA
-https://inliveserver.com:1936/14148/14148/playlist.m3u8
 #EXTINF: -1 tvg-chno="21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuxgBnJlOtJSsTnFvwCHja5d0A753R6C9DpA&usqp=CAU" group-title="RADIOS", NOVA FM 91.5 MISIONES
 http://streamyes.alsolnet.com/radionovatv/live/playlist.m3u8
 #EXTINF: -1 tvg-chno="22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIOS", FM METROPOLITANA 93.5 TUCUMAN
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
-#EXTINF: -1 tvg-chno="23" tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIOS", RADIO AZAHARES FM 101.5 CORRIENTES
-http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF: -1 tvg-chno="24" tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIOS", RADIO CLASS 91.9 FM SAENZ PEÑA
 https://streamcasthd.com:19360/classfm/classfm.m3u8
 #EXTINF: -1 tvg-chno="25" tvg-logo="https://www.mediaticadigital.com.ar/files/image/23/23202/5bacedbf70730.png" group-title="RADIOS", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
@@ -3371,12 +3353,8 @@ https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
 http://streamyes.alsolnet.com/rmxtv/live/playlist.m3u8
 #EXTINF: -1 tvg-chno="36" tvg-logo="https://pornuestroshijos.com.ar/images/DiarioLiderLogo.png" group-title="RADIOS", DIARIO LIDER TRENQUE LAUQUEN
 http://190.0.236.206:8080/hls/lidermedios.m3u8
-#EXTINF: -1 tvg-chno="37" tvg-logo="https://fmbrasilera.com/wp-content/uploads/2020/06/brasil512omb8eRVSHJX.jpg" group-title="RADIOS", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
-https://stmv6.srvstm.com/brasil/brasil/playlist.m3u8
 #EXTINF: -1 tvg-chno="38" tvg-logo="https://launotv.com.ar/templates/default/images/logo.png" group-title="RADIOS", RADIO UNO 95.1 FM - AMERICA  RIVADAVIA
 https://stmvideo2.livecastv.com/launotv/launotv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIOS", FM LA VOZ DEL DESIERTO NEUQUEN
-https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RADIOS", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
 https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
 #EXTINF: -1 tvg-logo="https://urban985.com/img/logo.png" group-title="RADIOS", URBAN 98.5 FM PEHUAJO
@@ -3401,8 +3379,6 @@ https://streamcasthd.com:1936/nacionalypopular/nacionalypopular/playlist.m3u8
 http://s8.stweb.tv/unlam/video2/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIOS", RADIO ROCHA AM 1500 LA PLATA
 https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.fantastica1017.com.ar/images/logoOK.jpg" group-title="RADIOS", FM FANTASTICA CHILECITO 101.7 FM
-https://vivo.solumedia.com:19360/grupomontecristo/grupomontecristo.m3u8
 #EXTINF: -1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIOS", RADIO CASILDA 91.1 FM SANTA FE
 https://videohd.live:19360/8046/8046.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIOS", MAS FM 95.9 SANTA FE
@@ -3419,10 +3395,6 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 https://videohd.live:19360/8012/8012.m3u8
 #EXTINF: -1 tvg-logo="http://www.radiodiversidad.com.ar/img/logo.png" group-title="RADIOS", RADIO DIVERSIDAD 99.9 FM TUCUMAN
 https://srv2.zcast.com.br/diversidad/diversidad/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://www.citricaradio.com/assets/img/cropped-logo-web.png" group-title="RADIOS", FM CITRICA 88.5 FM AVELLANEDA
-https://5f700d5b2c46f.streamlock.net/citricaradio/citricaradio/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIOS", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
-https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
 #EXTINF: -1 tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIOS", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIOS", FM RIO 107.5 AVELLANEDA
@@ -3431,10 +3403,6 @@ https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/pla
 https://tx.hls.nimo.tv/live/su2439520271345r7f61d6d38ad506f575d0ebfbaf0c7f2f_low.m3u8
 #EXTINF: -1 tvg-logo="https://radioarg.net/assets/image/radio/180/argentina-893-fm-online.jpg" group-title="RADIOS", RADIO ARGENTINA 89.3 FM RESISTENCIA CHACO
 http://streamingvideo.com.ar:1935/argentinaenlinea/live/chunklist_w778403502.m3u8
-#EXTINF: -1 tvg-logo="https://catriel25noticias.com/wp-content/uploads/2019/07/LogoCatriel25Noticiasx275.png" group-title="RADIOS", CATRIEL WEB
-https://589ff3c36f7e8.streamlock.net/alastv/alastv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://radiotupac.com.ar/wp-content/uploads/2020/04/LOGO-TUPAC-WEBCAST-05.jpg" group-title="RADIOS", RADIO TUPAC ONLINE
-https://video.turadioonline.com.ar:5443/LiveApp/streams/235402511797957164799618.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIOS", RADIO ARGENTINA
 http://server.laradio.online:25224/live.mp3
 #EXTINF: -1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIOS", RADIO BELGRANO
@@ -3487,10 +3455,14 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
 http://streaming.latina101.com.ar:8080/RadioLatina
 #EXTINF: -1 tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIOS", La patriada 102.1
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aspen102.jpg/225px-Aspen102.jpg" group-title="RADIOS", ASPEN 102.3
-https://19173.live.streamtheworld.com/ASPENAAC_SC
 #EXTINF: -1 tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/142736269_424638608880717_8684070971724744149_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGjw37pJpOc64CEQzDM0FtLcb1ljI54fDlxvWWMjnh8Obq0L8GDH2JRXBkNOsocq4Y&_nc_ohc=w6A41CAMupcAX_CA3bY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=2daeb235430ccac1da7fc3c40191f6b5&oe=60E42D54" group-title="RADIOS", FM PREMIUM 98.9 FM VILLA MARÍA CORDOBA
 https://stream.zeno.fm/cvvvykmtpg8uv
+#EXTINF: -1 tvg-chno="10" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
+https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", COSTANERA VILLA MARIA - CORDOBA
+https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
+#EXTINF: -1 tvg-chno="5" tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
+https://streaming.reltid.com.ar/hls/monte.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", COSTANERA VILLA MARIA - CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR - PINAMAR
@@ -3499,8 +3471,6 @@ https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w
 https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="4" tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
 https://streaming.reltid.com.ar/hls/sierra.m3u8
-#EXTINF: -1 tvg-chno="5" tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/monte.m3u8
 #EXTINF: -1 tvg-chno="6" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 - VILLA GESELL
 http://cam104y3.gesell.com.ar/playlist.m3u8
 #EXTINF: -1 tvg-chno="7" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", BS AS Y PLAYA - VILLA GESELL
@@ -3517,61 +3487,3 @@ https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
 #EXTINF: -1 tvg-chno="13" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
 https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
-#EXTINF: -1 tvg-chno="14" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
-https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", COSTANERA VILLA MARIA - CORDOBA
-https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR - PINAMAR
-https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR - PINAMAR
-https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
-#EXTINF: -1 tvg-chno="4" tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
-https://streaming.reltid.com.ar/hls/sierra.m3u8
-#EXTINF: -1 tvg-chno="5" tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/monte.m3u8
-#EXTINF: -1 tvg-chno="6" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 - VILLA GESELL
-http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF: -1 tvg-chno="7" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", BS AS Y PLAYA - VILLA GESELL
-http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-#EXTINF: -1 tvg-chno="8" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA - VILLA GESELL
-http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BOTAVARA - PINAMAR
-https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
-#EXTINF: -1 tvg-chno="10" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
-https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8
-#EXTINF: -1 tvg-chno="11" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
-https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8
-#EXTINF: -1 tvg-chno="12" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SAN JUAN
-https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
-#EXTINF: -1 tvg-chno="13" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
-https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
-#EXTINF: -1 tvg-chno="14" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
-https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", COSTANERA VILLA MARIA - CORDOBA
-https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y EL MAR - PINAMAR
-https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR - PINAMAR
-https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
-#EXTINF: -1 tvg-chno="4" tvg-logo="https://www.sierradelaventana.org/images/stories/logos/logo.png" group-title="WEB CAM Y CLIMA", SIERRA DE LA VENTANA
-https://streaming.reltid.com.ar/hls/sierra.m3u8
-#EXTINF: -1 tvg-chno="5" tvg-logo="http://www.tornquistdistrital.com.ar/wp-content/uploads/2012/07/Logo-Monte.jpg" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
-https://streaming.reltid.com.ar/hls/monte.m3u8
-#EXTINF: -1 tvg-chno="6" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 - VILLA GESELL
-http://cam104y3.gesell.com.ar/playlist.m3u8
-#EXTINF: -1 tvg-chno="7" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", BS AS Y PLAYA - VILLA GESELL
-http://cambsasyplaya.gesell.com.ar/playlist.m3u8
-#EXTINF: -1 tvg-chno="8" tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA - VILLA GESELL
-http://camlapinocha.gesell.com.ar/playlist.m3u8
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BOTAVARA - PINAMAR
-https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
-#EXTINF: -1 tvg-chno="10" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
-https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/playlist.m3u8
-#EXTINF: -1 tvg-chno="11" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SANTA CLARA DEL MAR
-https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8
-#EXTINF: -1 tvg-chno="12" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 SAN JUAN
-https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
-#EXTINF: -1 tvg-chno="13" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
-https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
-#EXTINF: -1 tvg-chno="14" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 PUAN
-https://5f6e1fe8f2d2e.streamlock.net/puan/puan/playlist.m3u8
