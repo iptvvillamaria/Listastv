@@ -1,11 +1,6 @@
 # Listastv
 señalesinternacionales
 #EXTM3U
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Escudo_de_Bolivia.svg/200px-Escudo_de_Bolivia.svg.png" group-title="BOLIVIA", ATB BOLIVIA 
 https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 
