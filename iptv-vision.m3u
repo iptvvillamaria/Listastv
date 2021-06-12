@@ -35,8 +35,6 @@ https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="BUENOS AIRES", TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF: -1 tvg-chno="20" tvg-logo="https://m3u-editor.com/storage/channel-logos/e39035a0-cbc4-11eb-9e0d-015ca7ac8226/1751586/315554270.jpg" group-title="BUENOS AIRES", CRONICA HD
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF: -1 tvg-chno="21" tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="BUENOS AIRES", TV PUBLICA
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF: -1 tvg-chno="22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="BUENOS AIRES", CANAL 9
