@@ -289,30 +289,17 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="59" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONALES", TV CARIOCA BRASIL
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
-#EXTINF: -1 tvg-chno="60" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONALES", SBT - TV Jornal BRASIL
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="61" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONALES", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF: -1 tvg-chno="62" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733153/312567397.png" group-title="INTERNACIONALES", FOX NEWS - USA
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567397
 #EXTINF: -1 tvg-chno="65" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="INTERNACIONALES", CNN INTERNACIONAL  - USA
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="66" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567025.jpg" group-title="INTERNACIONALES", UCV CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567025
-#EXTINF: -1 tvg-chno="67" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567049.jpg" group-title="INTERNACIONALES", SANTIAGO TV
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567049
-#EXTINF: -1 tvg-chno="68" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567015.png" group-title="INTERNACIONALES", LATINOS UP - CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567015
-#EXTINF: -1 tvg-chno="69" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/314545354.png" group-title="INTERNACIONALES", TVMas CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/314545354
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Televisa News Mexico
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/6561/brand.gif?itok=VdXYb4sx" group-title="INTERNACIONALES", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Germany_%283-2_aspect_ratio%29.svg/220px-Flag_of_Germany_%283-2_aspect_ratio%29.svg.png" group-title="INTERNACIONALES", Deutsche Welle
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
