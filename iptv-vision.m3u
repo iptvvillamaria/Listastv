@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U: -1 tvg chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/e39035a0-cbc4-11eb-9e0d-015ca7ac8226/1751586/315554270.jpg" group-title= "BUENOS AIRES",CRONICA UD
+#EXTINF: -1 tvg chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/e39035a0-cbc4-11eb-9e0d-015ca7ac8226/1751586/315554270.jpg" group-title= "BUENOS AIRES",CRONICA UD
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="BUENOS AIRES", IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
