@@ -33,7 +33,7 @@ https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="BUENOS AIRES", TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF: -1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="BUENOS AIRES", TELEFE
+#EXTINF: -1 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="BUENOS AIRES", TELEFE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7607b450-c7e0-11eb-b8e5-af4de1a255a6/1732100/312381057.png" group-title="PROVINCIALES", PROVINCIAL TV
 http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
@@ -289,16 +289,30 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="59" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONALES", TV CARIOCA BRASIL
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
+#EXTINF: -1 tvg-chno="60" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONALES", SBT - TV Jornal BRASIL
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="61" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONALES", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF: -1 tvg-chno="62" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733153/312567397.png" group-title="INTERNACIONALES", FOX NEWS - USA
+https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567397
 #EXTINF: -1 tvg-chno="65" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="INTERNACIONALES", CNN INTERNACIONAL  - USA
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-chno="66" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567025.jpg" group-title="INTERNACIONALES", UCV CHILE
+https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567025
+#EXTINF: -1 tvg-chno="67" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567049.jpg" group-title="INTERNACIONALES", SANTIAGO TV
+https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567049
+#EXTINF: -1 tvg-chno="68" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567015.png" group-title="INTERNACIONALES", LATINOS UP - CHILE
+https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567015
+#EXTINF: -1 tvg-chno="69" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/314545354.png" group-title="INTERNACIONALES", TVMas CHILE
+https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/314545354
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Televisa News Mexico
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/6561/brand.gif?itok=VdXYb4sx" group-title="INTERNACIONALES", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Germany_%283-2_aspect_ratio%29.svg/220px-Flag_of_Germany_%283-2_aspect_ratio%29.svg.png" group-title="INTERNACIONALES", Deutsche Welle
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
@@ -463,38 +477,34 @@ https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F
 https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 #EXTINF: -1 tvg-chno="25" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", WONDER WOMAN 1984 (2020)
 http://ipeteve.com/REGIOFLIX100321/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", ESPIRAL
+#EXTINF: -1 tvg-chno="26" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", ESPIRAL
 http://ps3u.ga/m3u/Lista02Peliculas/espiral/index.mp4
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", FRIENDS
+#EXTINF: -1 tvg-chno="27" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", FRIENDS
 http://ps3u.ga/m3u/Lista02Peliculas/friends/index.mp4
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", AQUELLOS QUE DESEAN MI MUERTE
+#EXTINF: -1 tvg-chno="28" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", AQUELLOS QUE DESEAN MI MUERTE
 http://ps3u.ga/m3u/Lista02Peliculas/deseanmimuerte/index.mp4
-#EXTINF: -1 tvg-chno="4" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", DESPUES DE TI
+#EXTINF: -1 tvg-chno="29" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", DESPUES DE TI
 http://ps3u.ga/m3u/Lista02Peliculas/despuesdeti/index.mp4
-#EXTINF: -1 tvg-chno="5" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", EL VIRTUOSO
+#EXTINF: -1 tvg-chno="30" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", EL VIRTUOSO
 http://ps3u.ga/m3u/Lista02Peliculas/elvirtuoso/index.mp4
-#EXTINF: -1 tvg-chno="6" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", EL INMORTAL
+#EXTINF: -1 tvg-chno="31" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", EL INMORTAL
 http://ps3u.ga/m3u/Lista02Peliculas/elinmortal/index.mp4
-#EXTINF: -1 tvg-chno="7" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", PALM SPRINGS
+#EXTINF: -1 tvg-chno="32" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", PALM SPRINGS
 http://ps3u.ga/m3u/Lista02Peliculas/palmsprings/index.mp4
-#EXTINF: -1 tvg-chno="8" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", TREN INFINITO
-http://ps3u.ga/m3u/Lista02Peliculas/treninfinito/index.mp4
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", HORIZONTE MORTAL
+#EXTINF: -1 tvg-chno="33" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", HORIZONTE MORTAL
 http://ps3u.ga/m3u/Lista02Peliculas/horizontemortal/index.mp4
-#EXTINF: -1 tvg-chno="10" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", NADIE
+#EXTINF: -1 tvg-chno="34" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", NADIE
 http://ps3u.ga/m3u/Lista02Peliculas/nadie/index.mp4
-#EXTINF: -1 tvg-chno="11" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", CAOS WALKING
+#EXTINF: -1 tvg-chno="35" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", CAOS WALKING
 http://ps3u.ga/m3u/Lista02Peliculas/caos/index.mp4
-#EXTINF: -1 tvg-chno="12" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", GODZILLA VS KONG
+#EXTINF: -1 tvg-chno="36" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", GODZILLA VS KONG
 http://ps3u.ga/m3u/Lista02Peliculas/godzillavskong/index.mp4
-#EXTINF: -1 tvg-chno="13" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", UN MAL VIAJE
+#EXTINF: -1 tvg-chno="37" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", UN MAL VIAJE
 http://ps3u.ga/m3u/Lista02Peliculas/unmalviaje/index.mp4
-#EXTINF: -1 tvg-chno="14" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", BUSCANDO A STEVE
+#EXTINF: -1 tvg-chno="38" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", BUSCANDO A STEVE
 http://ps3u.ga/m3u/Lista02Peliculas/buscandoasteve/index.mp4
-#EXTINF: -1 tvg-chno="15" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", EL CAPITAN
+#EXTINF: -1 tvg-chno="39" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", EL CAPITAN
 http://ps3u.ga/m3u/Lista02Peliculas/elcapitan/index.mp4
-#EXTINF: -1 tvg-chno="16" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", LA VIDA SECRETA DE TUS MASCOTAS 2
-https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="CULTURALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="http://ondemo.tmsimg.com/assets/p18445172_b_v5_ad.jpg" group-title="CULTURALES", UNEARTH
@@ -621,121 +631,101 @@ https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/314545362
 https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIOS", BEATS  - 100.5 FM - TIGRE
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
-#EXTINF: -1 tvg-chno="3" tvg-logo="http://www.m3u.cl/logo/107187_Canal_907_FM_Comunicar.png" group-title="RADIOS", FM COMUNICAR 90.7 FM COLONIA CAROYA
-https://panel.dattalive.com/canal907/canal907/playlist.m3u8
-#EXTINF: -1 tvg-chno="4" tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIOS", CIUDAD MAGICA 105.1 FM AUSONIA
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIOS", CIUDAD MAGICA 105.1 FM AUSONIA
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
-#EXTINF: -1 tvg-chno="5" tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIOS", AM 1020 SAN JUAN
+#EXTINF: -1 tvg-chno="4" tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="RADIOS", AM 1020 SAN JUAN
 http://51.79.83.93:9998/live/am1020/chunks.m3u8
-#EXTINF: -1 tvg-chno="6" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIOS", FM LIGHT 97.3 SAN JUAN
+#EXTINF: -1 tvg-chno="5" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/PFDvWENVvW.jpg" group-title="RADIOS", FM LIGHT 97.3 SAN JUAN
 http://videostream.shockmedia.com.ar:1935/lightfm/lightfm/playlist.m3u8
-#EXTINF: -1 tvg-chno="7" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="RADIOS", AIRE DE SANTA FE
+#EXTINF: -1 tvg-chno="6" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="RADIOS", AIRE DE SANTA FE
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF: -1 tvg-chno="8" tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIOS", POWER MAX 104.1 FM RECREO SANTA FE
+#EXTINF: -1 tvg-chno="7" tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="RADIOS", POWER MAX 104.1 FM RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="RADIOS", FM PLUS 93.1 ROSARIO
+#EXTINF: -1 tvg-chno="8" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/96/85/9685b44d-67a3-4c50-84e6-76888b1599cb.png" group-title="RADIOS", FM PLUS 93.1 ROSARIO
 https://g3.vxral-slo.transport.edge-access.net/a10/ngrp:rosario3_live01-100168_all/rosario3_live01-100168_540p.m3u8
-#EXTINF: -1 tvg-chno="10" tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIOS", WOX ROSARIO 88.3 FM
+#EXTINF: -1 tvg-chno="9" tvg-logo="https://radioarg.net/assets/image/radio/180/wox1.png" group-title="RADIOS", WOX ROSARIO 88.3 FM
 https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
-#EXTINF: -1 tvg-chno="11" tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIOS", FM LATINA 94.5 ROSARIO
+#EXTINF: -1 tvg-chno="10" tvg-logo="https://static-media.streema.com/media/cache/9f/51/9f51832cbcc4c513b3415c2d9616fe89.jpg" group-title="RADIOS", FM LATINA 94.5 ROSARIO
 http://streaming.arcast.com.ar:1935/fmlatina/fmlatina/playlist.m3u8
-#EXTINF: -1 tvg-chno="12" tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIOS", FM 99.9 MAR DEL PLATA
+#EXTINF: -1 tvg-chno="11" tvg-logo="https://1.bp.blogspot.com/-MarcKiNPLwk/W4OayrKDy6I/AAAAAAAAFC8/fPm93f4fJvc7gS3N-qHlHk8BycSJMhVhACLcBGAs/s1600/fm-99-9.png" group-title="RADIOS", FM 99.9 MAR DEL PLATA
 https://fm999.info/test/index.m3u8
-#EXTINF: -1 tvg-chno="13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIOS", FM METROPOLITANA 93.5 TUCUMAN
+#EXTINF: -1 tvg-chno="12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="RADIOS", FM METROPOLITANA 93.5 TUCUMAN
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
-#EXTINF: -1 tvg-chno="14" tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIOS", RADIO AZAHARES FM 101.5 CORRIENTES
+#EXTINF: -1 tvg-chno="13" tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIOS", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF: -1 tvg-chno="15" tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIOS", RADIO CLASS 91.9 FM SAENZ PEÑA
-https://streamcasthd.com:19360/classfm/classfm.m3u8
-#EXTINF: -1 tvg-chno="16" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIOS", POWER FM PINAMAR 100.3 FM
+#EXTINF: -1 tvg-chno="14" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="RADIOS", POWER FM PINAMAR 100.3 FM
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
-#EXTINF: -1 tvg-chno="17" tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="RADIOS", FM IBEROAMERICA 100.3 MAR DEL PLATA
+#EXTINF: -1 tvg-chno="15" tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" group-title="RADIOS", FM IBEROAMERICA 100.3 MAR DEL PLATA
 http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist.m3u8
-#EXTINF: -1 tvg-chno="18" tvg-logo="https://1.bp.blogspot.com/-DeHYq8zK4Ww/W2_AlgMYOgI/AAAAAAAAEPs/F5BIeppaBHQ5MlddDYsLliYBdPSoZjC3wCLcBGAs/s1600/radio-amplitud-am-660.png" group-title="RADIOS", AMPLITUD AM 660 SAN JUSTO
-https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
-#EXTINF: -1 tvg-chno="19" tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="RADIOS", FM DEL SOL 91.9 SAN JUAN
+#EXTINF: -1 tvg-chno="16" tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="RADIOS", FM DEL SOL 91.9 SAN JUAN
 http://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
-#EXTINF: -1 tvg-chno="20" tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" group-title="RADIOS", LU 24 TRES ARROYOS
+#EXTINF: -1 tvg-chno="17" tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" group-title="RADIOS", LU 24 TRES ARROYOS
 http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
-#EXTINF: -1 tvg-chno="21" tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="RADIOS", RBD RADIO BUENOS AIRES
-http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
-#EXTINF: -1 tvg-chno="22" tvg-logo="http://delpueblo.somosturadio.net/wp-content/uploads/sites/9/2020/06/fm-del-pueblo1.png" group-title="RADIOS", RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
+#EXTINF: -1 tvg-chno="18" tvg-logo="http://delpueblo.somosturadio.net/wp-content/uploads/sites/9/2020/06/fm-del-pueblo1.png" group-title="RADIOS", RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
 https://vivo.solumedia.com:19360/fmdelpueblo/fmdelpueblo.m3u8
-#EXTINF: -1 tvg-chno="23" tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="RADIOS", FM 95.1 ADELA LA PAMPA
+#EXTINF: -1 tvg-chno="19" tvg-logo="http://bahiahost.com.ar/appstore/wp-content/uploads/2020/11/img-play-logo.png" group-title="RADIOS", FM 95.1 ADELA LA PAMPA
 https://stmv1.srvif.com/liberred/liberred/playlist.m3u8
-#EXTINF: -1 tvg-chno="24" tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RADIOS", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
-https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
-#EXTINF: -1 tvg-chno="25" tvg-logo="https://urban985.com/img/logo.png" group-title="RADIOS", URBAN 98.5 FM PEHUAJO
+#EXTINF: -1 tvg-chno="20" tvg-logo="https://urban985.com/img/logo.png" group-title="RADIOS", URBAN 98.5 FM PEHUAJO
 https://urban985.tv/hls/websd.m3u8
-#EXTINF: -1 tvg-chno="26" tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIOS", RADIO CIUDAD 100.3 FM CORONEL MOLDES
-https://vivo.solumedia.com:19360/cesarb/cesarb.m3u8
-#EXTINF: -1 tvg-chno="27" tvg-logo="https://fmvanguardia.com/wp-content/uploads/2020/03/Logo-FMV-106-Tel-980x210.png" group-title="RADIOS", FM VANGUARDIA 106.1 CALETA OLIVIA
-https://streamcasthd.com:19360/fmvanguardia/fmvanguardia.m3u8
-#EXTINF: -1 tvg-chno="28" tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIOS", CADENA MAXIMA 106.7 SALTA
+#EXTINF: -1 tvg-chno="21" tvg-logo="https://www.cadenamaxima.com.ar/cadmawp/wp-content/uploads/2017/04/logo-cadena-maxima-footer.png" group-title="RADIOS", CADENA MAXIMA 106.7 SALTA
 https://vivo.solumedia.com:19360/cadenamaxima/cadenamaxima.m3u8
-#EXTINF: -1 tvg-chno="29" tvg-logo="https://giga1055.com/wp-content/uploads/2019/03/LOGO_SOLO_GIGA.png" group-title="RADIOS", FM GIGA 101.5 NEUQUEN
-https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
-#EXTINF: -1 tvg-chno="30" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysxHwA5V1RRfI6m8y-LoJN_utfCdoOjnZ2w&usqp=CAU" group-title="RADIOS", RED DIFUSORA CARHUE  99.5 FM
+#EXTINF: -1 tvg-chno="22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysxHwA5V1RRfI6m8y-LoJN_utfCdoOjnZ2w&usqp=CAU" group-title="RADIOS", RED DIFUSORA CARHUE  99.5 FM
 https://panel.dattalive.com/8114/8114/playlist.m3u8
-#EXTINF: -1 tvg-chno="31" tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIOS", FM OK 105.7 FLORENCIO VARELA
+#EXTINF: -1 tvg-chno="23" tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="RADIOS", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
-#EXTINF: -1 tvg-chno="32" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIOS", RADIO CASILDA 91.1 FM SANTA FE
+#EXTINF: -1 tvg-chno="24" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/72/8a/728a7f22-b7c7-4da4-8db0-fb3ec1b26047.jpg" group-title="RADIOS", RADIO CASILDA 91.1 FM SANTA FE
 https://videohd.live:19360/8046/8046.m3u8
-#EXTINF: -1 tvg-chno="33" tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIOS", MAS FM 95.9 SANTA FE
+#EXTINF: -1 tvg-chno="25" tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIOS", MAS FM 95.9 SANTA FE
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF: -1 tvg-chno="34" tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="RADIOS", ON RADIO ARGENTINA
+#EXTINF: -1 tvg-chno="26" tvg-logo="https://static.wixstatic.com/media/06c8c8_ffc396a5d15745eeb1d47f02c6b1de89~mv2.gif" group-title="RADIOS", ON RADIO ARGENTINA
 https://clientes.videostreaming.ar:19360/onradio/onradio.m3u8
-#EXTINF: -1 tvg-chno="35" tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIOS", VINILO FM 103.5 NECOCHEA
+#EXTINF: -1 tvg-chno="27" tvg-logo="https://i.ibb.co/VqFz7dg/logo-vinilo-medio-2.png" group-title="RADIOS", VINILO FM 103.5 NECOCHEA
 https://srv3.zcast.com.br/vinilo/vinilo/playlist.m3u8
-#EXTINF: -1 tvg-chno="36" tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIOS", RADIO CARDINAL MIRAMAR CORDOBA
+#EXTINF: -1 tvg-chno="28" tvg-logo="http://static-1.ivoox.com/canales/4/0/4/1/741470821404_XXL.jpg" group-title="RADIOS", RADIO CARDINAL MIRAMAR CORDOBA
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
-#EXTINF: -1 tvg-chno="37" tvg-logo="http://cdn-profiles.tunein.com/s135098/images/logog.jpg?t=151946" group-title="RADIOS", RPO RADIO PUNTO AM 1400
+#EXTINF: -1 tvg-chno="29" tvg-logo="http://cdn-profiles.tunein.com/s135098/images/logog.jpg?t=151946" group-title="RADIOS", RPO RADIO PUNTO AM 1400
 https://videohd.live:19360/8012/8012.m3u8
-#EXTINF: -1 tvg-chno="38" tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIOS", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
+#EXTINF: -1 tvg-chno="30" tvg-logo="https://www.radioestacion.com.ar/wp-content/uploads/2020/07/logoestacions.png" group-title="RADIOS", RADIO LA ESTACION 102.5 SAN FRANCISCO CORDOBA
 https://mediacp.hostradios.com.ar:19360/radioestacion/radioestacion.m3u8
-#EXTINF: -1 tvg-chno="39" tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIOS", RADIO TOP 104.9 FM
+#EXTINF: -1 tvg-chno="31" tvg-logo="http://fm1049.com.ar/wp-content/uploads/2017/10/TOP.png" group-title="RADIOS", RADIO TOP 104.9 FM
 http://inliveserver.com:1935/14082/14082/playlist.m3u8
-#EXTINF: -1 tvg-chno="40" tvg-logo="https://fmrio1075mbarete.esenvivo.com.ar/fb.jpg" group-title="RADIOS", FM RIO 107.5 AVELLANEDA
-https://videostream.shockmedia.com.ar:1936/fmrio1075mbarete/fmrio1075mbarete/playlist.m3u8
-#EXTINF: -1 tvg-chno="41" tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIOS", RADIO ARGENTINA
+#EXTINF: -1 tvg-chno="32" tvg-logo="https://1.bp.blogspot.com/-Ei-bz3j0cII/XztRcc6-W3I/AAAAAAAALW0/QuQBPP5_0yIBAcF4N-39OiryGNRZSobDACLcBGAsYHQ/s1600/radio-argentina-am-570.png" group-title="RADIOS", RADIO ARGENTINA
 http://server.laradio.online:25224/live.mp3
-#EXTINF: -1 tvg-chno="42" tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIOS", RADIO BELGRANO
+#EXTINF: -1 tvg-chno="33" tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIOS", RADIO BELGRANO
 http://server.laradio.online:25223/live.mp3
-#EXTINF: -1 tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIOS", RADIO DEL PLATA
+#EXTINF: -1 tvg-chno="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Radio_Del_Plata_%28Logo_2020%29.jpg/600px-Radio_Del_Plata_%28Logo_2020%29.jpg" group-title="RADIOS", RADIO DEL PLATA
 http://181.119.157.98:8800/amdelplata.mp3
-#EXTINF: -1 tvg-chno="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIOS", RADIO LA RED
+#EXTINF: -1 tvg-chno="35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIOS", RADIO LA RED
 https://24483.live.streamtheworld.com/LA_RED_AM910AAC.aac
-#EXTINF: -1 tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIOS", RADIO RIVADAVIA
+#EXTINF: -1 tvg-chno="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Radio_Rivadavia_%282020%29.png" group-title="RADIOS", RADIO RIVADAVIA
 https://21933.live.streamtheworld.com/RIVADAVIAAAC_SC
-#EXTINF: -1 tvg-chno="46" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RADIOS", RADIO CONTINENTAL
+#EXTINF: -1 tvg-chno="37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="RADIOS", RADIO CONTINENTAL
 http://17573.live.streamtheworld.com/CONTINENTALAAC_SC
-#EXTINF: -1 tvg-chno="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIOS", RADIO 10 AM 710
+#EXTINF: -1 tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIOS", RADIO 10 AM 710
 http://s6.stweb.tv/radio10/live/playlist.m3u8
-#EXTINF: -1 tvg-chno="48" tvg-logo="https://www.radiocolonia.com/images/Logo-color.png" group-title="RADIOS", RADIO COLONIA AM 550
-https://streaming1.hostingmontevideo.com:7019/;
-#EXTINF: -1 tvg-chno="49" tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="RADIOS", RADIO DEL PUEBLO AM 810
+#EXTINF: -1 tvg-chno="39" tvg-logo="https://radiodelpueblo.com.ar/files/logo3.png" group-title="RADIOS", RADIO DEL PUEBLO AM 810
 http://streaming.radiolinksmedia.com:7830/;
-#EXTINF: -1 tvg-chno="50" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="RADIOS", RADIO DE LA CIUDAD 1100 AM
+#EXTINF: -1 tvg-chno="40" tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fab9780655718aef08c728050538aa16.jpg" group-title="RADIOS", RADIO DE LA CIUDAD 1100 AM
 http://radios.argentina.fm:1110/stream
-#EXTINF: -1 tvg-chno="51" tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="RADIOS", RADIO LA LUNA 1140 AM
+#EXTINF: -1 tvg-chno="41" tvg-logo="https://radiolaluna.com.ar/wp-content/uploads/2021/05/LOGO-APP.jpg" group-title="RADIOS", RADIO LA LUNA 1140 AM
 http://server.ohradio.com.ar:9344/;
-#EXTINF: -1 tvg-chno="52" tvg-logo="https://www.radio.es/images/broadcasts/57/3c/16198/1/c300.png" group-title="RADIOS", La 2x4 FM 92.7
+#EXTINF: -1 tvg-chno="42" tvg-logo="https://www.radio.es/images/broadcasts/57/3c/16198/1/c300.png" group-title="RADIOS", La 2x4 FM 92.7
 http://radios.argentina.fm:9270/stream
-#EXTINF: -1 tvg-chno="53" tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="RADIOS", Late 93.1
+#EXTINF: -1 tvg-chno="43" tvg-logo="https://4.bp.blogspot.com/-nVsNM7EKqcg/W6sHzNONvII/AAAAAAAAGV8/4IqgAOx-nr8B1JDoG4Zvv_vJFHLG94BfQCLcBGAs/s1600/late-93-1.png" group-title="RADIOS", Late 93.1
 http://streaming.radiolinksmedia.com:8252/;stream
-#EXTINF: -1 tvg-chno="54" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IRO-v94sC9UnN2TqNt9xWR7rzkX81jbTd8DwhpniXc3LU-M_MTaWC7Hi60TBVjkr56k&usqp=CAU" group-title="RADIOS", Nacional Rock FM 93.7
+#EXTINF: -1 tvg-chno="44" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4IRO-v94sC9UnN2TqNt9xWR7rzkX81jbTd8DwhpniXc3LU-M_MTaWC7Hi60TBVjkr56k&usqp=CAU" group-title="RADIOS", Nacional Rock FM 93.7
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
-#EXTINF: -1 tvg-chno="55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIOS", Metro 95.1
+#EXTINF: -1 tvg-chno="45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIOS", Metro 95.1
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
-#EXTINF: -1 tvg-chno="56" tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="RADIOS", Nacional Folklorica 98.7
+#EXTINF: -1 tvg-chno="46" tvg-logo="https://1.bp.blogspot.com/-bfB665TOB9g/YCPr2H1AL-I/AAAAAAAA8I4/gJNFVc6-mJEyRF6jm1ZasCeA-BQZrwWSQCLcBGAsYHQ/s338/radio-folk-2021.png" group-title="RADIOS", Nacional Folklorica 98.7
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
-#EXTINF: -1 tvg-chno="57" tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIOS", Latina 101.1
+#EXTINF: -1 tvg-chno="47" tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIOS", Latina 101.1
 http://streaming.latina101.com.ar:8080/RadioLatina
-#EXTINF: -1 tvg-chno="58" tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIOS", La patriada 102.1
+#EXTINF: -1 tvg-chno="48" tvg-logo="https://www.radio.es/images/broadcasts/8a/7f/130196/1/c175.png" group-title="RADIOS", La patriada 102.1
 http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8
-#EXTINF: -1 tvg-chno="59" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/142736269_424638608880717_8684070971724744149_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGjw37pJpOc64CEQzDM0FtLcb1ljI54fDlxvWWMjnh8Obq0L8GDH2JRXBkNOsocq4Y&_nc_ohc=w6A41CAMupcAX_CA3bY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=2daeb235430ccac1da7fc3c40191f6b5&oe=60E42D54" group-title="RADIOS", FM PREMIUM 98.9 FM VILLA MARÍA CORDOBA
+#EXTINF: -1 tvg-chno="49" tvg-logo="https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/142736269_424638608880717_8684070971724744149_n.png?_nc_cat=111&ccb=1-3&_nc_sid=58c789&_nc_eui2=AeGjw37pJpOc64CEQzDM0FtLcb1ljI54fDlxvWWMjnh8Obq0L8GDH2JRXBkNOsocq4Y&_nc_ohc=w6A41CAMupcAX_CA3bY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&tp=30&oh=2daeb235430ccac1da7fc3c40191f6b5&oe=60E42D54" group-title="RADIOS", FM PREMIUM 98.9 FM VILLA MARÍA CORDOBA
 https://stream.zeno.fm/cvvvykmtpg8uv
-#EXTINF: -1 tvg-chno="60" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIOS", RADIO MITRE
+#EXTINF: -1 tvg-chno="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIOS", RADIO MITRE
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://www.5900.tv/wp-content/uploads/2017/06/logo5900tv.png" group-title="WEB CAM Y CLIMA", COSTANERA VILLA MARIA - CORDOBA
 https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
@@ -765,29 +755,29 @@ https://5f6e1fe8f2d2e.streamlock.net/santaclara/santaclara/playlist.m3u8
 https://5f6e1fe8f2d2e.streamlock.net/sanjuan/sanjuan/playlist.m3u8
 #EXTINF: -1 tvg-chno="14" tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 LA COSTA
 https://5f6e1fe8f2d2e.streamlock.net/lacosta/lacosta/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/220px-Coat_of_arms_of_Brazil.svg.png" group-title="BRASIL", SBT GO
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754194/316247386.jpg" group-title="BRASIL", SBT GO
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w192415012_b1000000.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/220px-Coat_of_arms_of_Brazil.svg.png" group-title="BRASIL", SBT - TV Difusora (MA)
+#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754194/316247388.jpg" group-title="BRASIL", SBT - TV Difusora (MA)
 https://diulq15o39.zoeweb.tv/z437-live/stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/220px-Coat_of_arms_of_Brazil.svg.png" group-title="BRASIL", RecordTV Manaus
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754194/316247389.png" group-title="BRASIL", RecordTV Manaus
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/220px-Coat_of_arms_of_Brazil.svg.png" group-title="BRASIL", TV Manchete - WebTV
+#EXTINF: -1 tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754194/316247390.jpg" group-title="BRASIL", TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Coat_of_arms_of_Brazil.svg/220px-Coat_of_arms_of_Brazil.svg.png" group-title="BRASIL", Rede Globo
+#EXTINF: -1 tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754194/316247392.jpg" group-title="BRASIL", Rede Globo
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF: -1 tvg-chno="1" tvg-logo="http://kabala.com.uy/escudo/imagenes/escudo1.png" group-title="URUGUAY", SAETA CANAL 10 MONTEVIDEO URUGUAY
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754195/316247393.png" group-title="URUGUAY", SAETA CANAL 10 MONTEVIDEO URUGUAY
 https://edge-live14-hr.cvattv.com.ar:443/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU-audio_20000=144800-video=1480000.m3u8
-#EXTINF: -1 tvg-chno="2" tvg-logo="http://kabala.com.uy/escudo/imagenes/escudo1.png" group-title="URUGUAY", CANAL 4 MONTEVIDEO URUGUAY
+#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754195/316247394.png" group-title="URUGUAY", CANAL 4 MONTEVIDEO URUGUAY
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
-#EXTINF: -1 tvg-chno="3" tvg-logo="http://kabala.com.uy/escudo/imagenes/escudo1.png" group-title="URUGUAY", TELEDOCE MONTEVIDEO URUGUAY
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754195/316247395.png" group-title="URUGUAY", TELEDOCE MONTEVIDEO URUGUAY
 https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="MEXICO", JALISCO TV MEXICO
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754196/316247396.png" group-title="MEXICO", JALISCO TV MEXICO
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="MEXICO", ADN40
+#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754196/316247397.jpg" group-title="MEXICO", ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="MEXICO", ESTRELLA NEWS
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754196/316247398.jpg" group-title="MEXICO", ESTRELLA NEWS
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="MEXICO", Canal 10 Cancun
+#EXTINF: -1 tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754196/316247399.jpg" group-title="MEXICO", Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="MEXICO", Canal Catorce
+#EXTINF: -1 tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1754196/316247402.jpg" group-title="MEXICO", Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
