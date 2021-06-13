@@ -15,8 +15,6 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF: -1 tvg-chno="8" tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="BUENOS AIRES", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1739395/313539887.jpg" group-title="BUENOS AIRES", C5N
-https://inliveserver.com:1936/9504/9504/playlist.m3u8
 #EXTINF: -1 tvg-chno="10" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="BUENOS AIRES", CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF: -1 tvg-chno="11" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="BUENOS AIRES", GEN TV
@@ -33,10 +31,6 @@ https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="BUENOS AIRES", TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/e39035a0-cbc4-11eb-9e0d-015ca7ac8226/1751586/315554270.jpg" group-title="BUENOS AIRES", CRONICA HD
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="BUENOS AIRES", AMERICA  (OPCION 2)
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF: -1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="BUENOS AIRES", TELEFE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7607b450-c7e0-11eb-b8e5-af4de1a255a6/1732100/312381057.png" group-title="PROVINCIALES", PROVINCIAL TV
