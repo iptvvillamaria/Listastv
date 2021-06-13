@@ -1,0 +1,15 @@
+#EXTM3U
+# NeuLion Adaptive Streaming Server Version: 4.2.20181107.22941 
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000
+univision_east2_hd_800_pc.m3u8?hdntl=exp=1623708662~acl=%2f*~data=hdntl~hmac=1fbd38c696bf4c0ac783fe2bbbb5936bbdc462ca8335b52be424f9b5ca1a77e1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4500000
+univision_east2_hd_4500_pc.m3u8?hdntl=exp=1623708662~acl=%2f*~data=hdntl~hmac=1fbd38c696bf4c0ac783fe2bbbb5936bbdc462ca8335b52be424f9b5ca1a77e1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+univision_east2_hd_3000_pc.m3u8?hdntl=exp=1623708662~acl=%2f*~data=hdntl~hmac=1fbd38c696bf4c0ac783fe2bbbb5936bbdc462ca8335b52be424f9b5ca1a77e1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1600000
+univision_east2_hd_1600_pc.m3u8?hdntl=exp=1623708662~acl=%2f*~data=hdntl~hmac=1fbd38c696bf4c0ac783fe2bbbb5936bbdc462ca8335b52be424f9b5ca1a77e1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000
+univision_east2_hd_1200_pc.m3u8?hdntl=exp=1623708662~acl=%2f*~data=hdntl~hmac=1fbd38c696bf4c0ac783fe2bbbb5936bbdc462ca8335b52be424f9b5ca1a77e1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=400000
+univision_east2_hd_400_pc.m3u8?hdntl=exp=1623708662~acl=%2f*~data=hdntl~hmac=1fbd38c696bf4c0ac783fe2bbbb5936bbdc462ca8335b52be424f9b5ca1a77e1
