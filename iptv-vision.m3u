@@ -195,8 +195,6 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONALES", FRANCE 24 (EN ESPAÑOL)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733145/312566888.jpg" group-title="INTERNACIONALES", SBT - TV Difusora (MA)
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312566888
 #EXTINF: -1 tvg-chno="3" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONALES", TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF: -1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONALES", RT
@@ -285,24 +283,10 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF: -1 tvg-chno="58" tvg-logo="https://m3u-editor.com/storage/channel-logos/7607b450-c7e0-11eb-b8e5-af4de1a255a6/1732093/312381700.jpg" group-title="INTERNACIONALES", REUTERS NOW
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="59" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONALES", TV CARIOCA BRASIL
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
-#EXTINF: -1 tvg-chno="60" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONALES", SBT - TV Jornal BRASIL
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="61" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONALES", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF: -1 tvg-chno="62" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733153/312567397.png" group-title="INTERNACIONALES", FOX NEWS - USA
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567397
 #EXTINF: -1 tvg-chno="65" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="INTERNACIONALES", CNN INTERNACIONAL  - USA
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="66" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567025.jpg" group-title="INTERNACIONALES", UCV CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567025
-#EXTINF: -1 tvg-chno="67" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567049.jpg" group-title="INTERNACIONALES", SANTIAGO TV
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567049
-#EXTINF: -1 tvg-chno="68" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567015.png" group-title="INTERNACIONALES", LATINOS UP - CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567015
-#EXTINF: -1 tvg-chno="69" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/314545354.png" group-title="INTERNACIONALES", TVMas CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/314545354
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Televisa News Mexico
