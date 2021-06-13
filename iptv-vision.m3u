@@ -453,6 +453,8 @@ https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="43" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", CANAL CINESVERDI
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.flixtube.me/latino/upload/source/158x52px-logo-flixtube.png", FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1341244412.m3u8
 #EXTINF: -1 tvg-chno="45" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF: -1 tvg-chno="46" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
