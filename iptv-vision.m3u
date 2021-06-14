@@ -199,8 +199,6 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONALES", FRANCE 24 (EN ESPAÑOL)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733145/312566888.jpg" group-title="INTERNACIONALES", SBT - TV Difusora (MA)
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312566888
 #EXTINF: -1 tvg-chno="3" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONALES", TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF: -1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONALES", RT
@@ -291,30 +289,16 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="59" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONALES", TV CARIOCA BRASIL
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
-#EXTINF: -1 tvg-chno="60" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONALES", SBT - TV Jornal BRASIL
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="61" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONALES", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF: -1 tvg-chno="62" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733153/312567397.png" group-title="INTERNACIONALES", FOX NEWS - USA
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567397
 #EXTINF: -1 tvg-chno="65" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="INTERNACIONALES", CNN INTERNACIONAL  - USA
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="66" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567025.jpg" group-title="INTERNACIONALES", UCV CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567025
-#EXTINF: -1 tvg-chno="67" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567049.jpg" group-title="INTERNACIONALES", SANTIAGO TV
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567049
-#EXTINF: -1 tvg-chno="68" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567015.png" group-title="INTERNACIONALES", LATINOS UP - CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567015
-#EXTINF: -1 tvg-chno="69" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/314545354.png" group-title="INTERNACIONALES", TVMas CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/314545354
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Televisa News Mexico
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/master.m3u8
 #EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/6561/brand.gif?itok=VdXYb4sx" group-title="INTERNACIONALES", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Germany_%283-2_aspect_ratio%29.svg/220px-Flag_of_Germany_%283-2_aspect_ratio%29.svg.png" group-title="INTERNACIONALES", Deutsche Welle
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF: -1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-chno="4" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="INTERNACIONALES", El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF: -1 tvg-name="CNN Internacional" tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="INTERNACIONALES", CNN Internacional
@@ -417,12 +401,8 @@ https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="43" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", CANAL CINESVERDI
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="44" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF: -1 tvg-chno="45" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF: -1 tvg-chno="46" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF: -1 tvg-chno="47" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF: -1 tvg-chno="48" tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg" group-title="CINE Y SERIES", AME47
@@ -437,10 +417,6 @@ https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF: -1 tvg-chno="53" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF: -1 tvg-chno="54" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
-http://96.30.193.226:81/hls/canalaster.m3u8
-#EXTINF: -1 tvg-chno="55" tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 #EXTINF: -1 tvg-chno="56" tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png" group-title="CINE Y SERIES", Exprezion TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF: -1 tvg-chno="57" tvg-logo="https://lh3.googleusercontent.com/-ICOGP6CIXA0/YLwTmfwPE5I/AAAAAAABCtc/1ZaEWOjJNw0YA8ojwUaJ3aaYB6xb7q2hwCJEEGAsYHg/s512/2021-06-05.jpg" group-title="CINE Y SERIES", Quinta TV
@@ -663,8 +639,6 @@ https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF: -1 tvg-chno="37" tvg-logo="https://pbs.twimg.com/profile_images/1370476646755631113/x4W9lpwq_400x400.png" group-title="MUSICA", SPEKTRA TV
 https://streamtv.mediasector.es/hls/spektratv/.m3u8
-#EXTINF: -1 tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/314545362.png" group-title="MUSICA", Mundo de la Musica TV
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/314545362
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIOS", LA 100
 https://g5.vxral-slo.transport.edge-access.net/b13/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://beatsradio.com.ar/imagenes/logo.png" group-title="RADIOS", BEATS  - 100.5 FM - TIGRE
