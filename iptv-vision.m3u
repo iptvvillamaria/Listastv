@@ -291,22 +291,12 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="59" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/TV-CARIOCA-.NET-ao-vivo-Online.png" group-title="INTERNACIONALES", TV CARIOCA BRASIL
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
-#EXTINF: -1 tvg-chno="60" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="INTERNACIONALES", SBT - TV Jornal BRASIL
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="61" tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="INTERNACIONALES", RecordTV Manaus BRASIL
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
-#EXTINF: -1 tvg-chno="62" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733153/312567397.png" group-title="INTERNACIONALES", FOX NEWS - USA
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567397
 #EXTINF: -1 tvg-chno="65" tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="INTERNACIONALES", CNN INTERNACIONAL  - USA
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="66" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567025.jpg" group-title="INTERNACIONALES", UCV CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567025
-#EXTINF: -1 tvg-chno="67" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567049.jpg" group-title="INTERNACIONALES", SANTIAGO TV
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567049
 #EXTINF: -1 tvg-chno="68" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/312567015.png" group-title="INTERNACIONALES", LATINOS UP - CHILE
 https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312567015
-#EXTINF: -1 tvg-chno="69" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733146/314545354.png" group-title="INTERNACIONALES", TVMas CHILE
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/314545354
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/200px-Flag_of_Mexico.svg.png" group-title="INTERNACIONALES", Televisa News Mexico
@@ -383,8 +373,6 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF: -1 tvg-chno="26" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF: -1 tvg-chno="27" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF: -1 tvg-chno="28" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", RETROPLUS SERIES
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF: -1 tvg-chno="29" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745" group-title="CINE Y SERIES", TELESISTEMA
@@ -401,8 +389,6 @@ https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF: -1 tvg-chno="35" tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
-#EXTINF: -1 tvg-chno="36" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF: -1 tvg-chno="37" tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF: -1 tvg-chno="38" tvg-logo="https://m3u-editor.com/storage/channel-logos/7607b450-c7e0-11eb-b8e5-af4de1a255a6/1732103/312381265.png" group-title="CINE Y SERIES", COSMO
@@ -417,8 +403,6 @@ https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="43" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", CANAL CINESVERDI
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="44" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF: -1 tvg-chno="45" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF: -1 tvg-chno="46" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
@@ -437,8 +421,6 @@ https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF: -1 tvg-chno="53" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF: -1 tvg-chno="54" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
-http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF: -1 tvg-chno="55" tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 #EXTINF: -1 tvg-chno="56" tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png" group-title="CINE Y SERIES", Exprezion TV
