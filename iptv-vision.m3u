@@ -199,8 +199,6 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="INTERNACIONALES", FRANCE 24 (EN ESPAÑOL)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733145/312566888.jpg" group-title="INTERNACIONALES", SBT - TV Difusora (MA)
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312566888
 #EXTINF: -1 tvg-chno="3" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONALES", TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF: -1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONALES", RT
