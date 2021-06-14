@@ -417,8 +417,6 @@ https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-chno="43" tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", CANAL CINESVERDI
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-chno="44" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF: -1 tvg-chno="45" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF: -1 tvg-chno="46" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="CINE Y SERIES", PH TV
@@ -437,10 +435,6 @@ https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF: -1 tvg-chno="53" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF: -1 tvg-chno="54" tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title="CINE Y SERIES", ASTER
-http://96.30.193.226:81/hls/canalaster.m3u8
-#EXTINF: -1 tvg-chno="55" tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 #EXTINF: -1 tvg-chno="56" tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png" group-title="CINE Y SERIES", Exprezion TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF: -1 tvg-chno="57" tvg-logo="https://lh3.googleusercontent.com/-ICOGP6CIXA0/YLwTmfwPE5I/AAAAAAABCtc/1ZaEWOjJNw0YA8ojwUaJ3aaYB6xb7q2hwCJEEGAsYHg/s512/2021-06-05.jpg" group-title="CINE Y SERIES", Quinta TV
