@@ -1,71 +1,23 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1" tvg-chno="1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas", La 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF: -1 tvg-id="La2.TV" tvg-name="La 2" tvg-chno="2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas", La 2
-https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
-#EXTINF: -1 tvg-id="13.TV" tvg-name="TRECE" tvg-chno="3" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas", TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-chno="4" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas", El Toro TV
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF: -1 tvg-id="24Horas.TV" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos", 24h
 https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
 #EXTINF: -1 tvg-id="24Horas.TV" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos", 24h
 https://rtvelivestream.akamaized.net/24h_bkp_dvr.m3u8
-#EXTINF: -1 tvg-name="Nius" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="Informativos", Nius HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
-#EXTINF: -1 tvg-name="Nius" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="Informativos", Nius SD
-https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
 #EXTINF: -1 tvg-id="RTESP.TV" tvg-name="RT" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="Informativos", RT
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF: -1 tvg-name="EuropaPress TV" tvg-logo="https://graph.facebook.com/europapress.es/picture?width=200&height=200" group-title="Informativos", EuropaPress TV
-https://cdnlive.shooowit.net/europapresslive/ep.smil/master.m3u8
-#EXTINF: -1 tvg-id="Negocios.TV" tvg-name="Negocios TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos", Negocios TV
-https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
-#EXTINF: -1 tvg-id="TVGA.TV" tvg-name="TVG América" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Int. Europa", TVG América
-https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF: -1 tvg-name="CNN Internacional" tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="Int. Europa", CNN Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF: -1 tvg-id="France24.TV" tvg-name="France 24 Francia" tvg-logo="https://graph.facebook.com/FRANCE24/picture?width=200&height=200" group-title="Int. Europa", France 24 Francia EN
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF: -1 tvg-id="RaiN.TV" tvg-name="Rai News 24 Italia" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa", Rai News 24 Italia IT
 https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-#EXTINF: -1 tvg-id="DW.TV" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Int. Europa", DW Alemania EN
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF: -1 tvg-name="TVR Rumania" tvg-logo="https://graph.facebook.com/fanTVR1/picture?width=200&height=200" group-title="Int. Europa", TVR Rumania RO
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
-#EXTINF: -1 tvg-name="RT News" tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa", RT News EN
-https://rt-uk-gd.secure2.footprint.net/1106.m3u8
-#EXTINF: -1 tvg-name="RT News" tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa", RT News EN
-https://rt-usa-gd.secure2.footprint.net/1105.m3u8
-#EXTINF: -1 tvg-name="ABC News USA" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" group-title="Int. América", ABC News USA EN
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF: -1 tvg-name="CBS News USA" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="Int. América", CBS News USA EN
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF: -1 tvg-name="Entertainment Tonight USA" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="Int. América", Entertainment Tonight USA EN
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF: -1 tvg-name="Newsmax TV USA" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" group-title="Int. América", Newsmax TV USA EN
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF: -1 tvg-name="CBN USA" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="Int. América", CBN USA EN
-https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF: -1 tvg-id="ADN40.TV" tvg-name="ADN40 Mexico" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América", ADN40 Mexico
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF: -1 tvg-name="Noticias Caracol Colombia" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Int. América", Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF: -1 tvg-name="TV Perú Noticias" tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Int. América", TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF: -1 tvg-id="TeleSUR.TV" tvg-name="TeleSUR Venezuela" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. América", TeleSUR Venezuela
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF: -1 tvg-name="Unicanal Paraguay" tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="Int. América", Unicanal Paraguay
 http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF: -1 tvg-name="Nex TV Panamá" tvg-logo="https://graph.facebook.com/nextvpanama/picture?width=200&height=200" group-title="Int. América", Nex TV Panamá
-http://198.1.123.99:1935/live/myStream/playlist.m3u8
-#EXTINF: -1 tvg-name="Fashion TV" tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" group-title="Int. Otros", Fashion TV
-https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 #EXTINF: -1 tvg-name="Miami TV" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros", Miami TV
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF: -1 tvg-name="Locomotion TV" tvg-logo="https://graph.facebook.com/locomotionxtv/picture?width=200&height=200" group-title="Int. Otros", Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF: -1 tvg-name="Classic Arts Showcase" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg" group-title="Int. Otros", Classic Arts Showcase EN
-https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
-#EXTINF: -1 tvg-name="Garage TV" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" group-title="Deportivos Int.", Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/.m3u8
