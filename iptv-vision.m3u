@@ -15,8 +15,6 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF: -1 tvg-chno="8" tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="BUENOS AIRES", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF: -1 tvg-chno="9" tvg-logo="https://m3u-editor.com/storage/channel-logos/2e2795a0-c99c-11eb-abca-11e3640e888d/1739395/313539887.jpg" group-title="BUENOS AIRES", C5N
-https://inliveserver.com:1936/9504/9504/playlist.m3u8
 #EXTINF: -1 tvg-chno="10" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="BUENOS AIRES", CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF: -1 tvg-chno="11" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="BUENOS AIRES", GEN TV
@@ -247,8 +245,6 @@ https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Can
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF: -1 tvg-chno="34" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/Estrella_Media_-_2020_logo.png" group-title="INTERNACIONALES", ESTRELLA NEWS - MEXICO
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
-#EXTINF: -1 tvg-chno="37" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" group-title="INTERNACIONALES", VALLEVISION  REP DOMINICANA
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF: -1 tvg-chno="38" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8Gc5fFs_4av_3It4hoaSP_CzT5gLkMRsm_xS6dN0DaGoxEsDeDNRagNODmODz3E7qRQ&usqp=CAU" group-title="INTERNACIONALES", EKIZ TV CHILE
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 #EXTINF: -1 tvg-chno="39" tvg-logo="https://i.imgur.com/DCAtokY.png" group-title="INTERNACIONALES", ATB
@@ -263,18 +259,10 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF: -1 tvg-chno="45" tvg-logo="https://m3u-editor.com/storage/channel-logos/7607b450-c7e0-11eb-b8e5-af4de1a255a6/1732093/312381671.jpg" group-title="INTERNACIONALES", AZTECA UNO
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-#EXTINF: -1 tvg-chno="46" tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="INTERNACIONALES", TEN HONDURAS
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF: -1 tvg-chno="47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" group-title="INTERNACIONALES", ABC PARAGUAY
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF: -1 tvg-chno="48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="INTERNACIONALES", RAI 3
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
-#EXTINF: -1 tvg-chno="49" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc-TKCQe6pb7OpPC4tprynHyWiNuFJh7h7H8DIwDL2B-pfAHPURhXP90v61gQnufz0SKWbgJ6rdxTAxryYfqJl2TJpXOhHM8aWxw&usqp=CAU&ec=45702846" group-title="INTERNACIONALES", NTV 24 NEWS JAPON
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF: -1 tvg-chno="50" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/416CT%2Bzil%2BL._SR600,315_SCLZZZZZZZ_.png" group-title="INTERNACIONALES", NHK JAPON
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF: -1 tvg-chno="51" tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png" group-title="INTERNACIONALES", ARIRANG KOREA
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF: -1 tvg-chno="52" tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="INTERNACIONALES", TV5 Monde INFO
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF: -1 tvg-chno="53" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" group-title="INTERNACIONALES", ABC - USA
@@ -391,8 +379,6 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF: -1 tvg-chno="38" tvg-logo="https://m3u-editor.com/storage/channel-logos/7607b450-c7e0-11eb-b8e5-af4de1a255a6/1732103/312381265.png" group-title="CINE Y SERIES", COSMO
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-#EXTINF: -1 tvg-chno="39" tvg-logo="https://m3u-editor.com/storage/channel-logos/7607b450-c7e0-11eb-b8e5-af4de1a255a6/1732103/312381285.jpg" group-title="CINE Y SERIES", VALLEVISION
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 #EXTINF: -1 tvg-chno="40" tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png" group-title="CINE Y SERIES", INFINITA
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 #EXTINF: -1 tvg-chno="41" tvg-logo="https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title="CINE Y SERIES", Canal 45 TV
@@ -415,12 +401,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 #EXTINF: -1 tvg-chno="52" tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
-#EXTINF: -1 tvg-chno="53" tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF: -1 tvg-chno="56" tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png" group-title="CINE Y SERIES", Exprezion TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-#EXTINF: -1 tvg-chno="57" tvg-logo="https://lh3.googleusercontent.com/-ICOGP6CIXA0/YLwTmfwPE5I/AAAAAAABCtc/1ZaEWOjJNw0YA8ojwUaJ3aaYB6xb7q2hwCJEEGAsYHg/s512/2021-06-05.jpg" group-title="CINE Y SERIES", Quinta TV
-https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", PIXEL
 https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", LA VIDA SECRETA DE TUS MASCOTAS 1
@@ -499,26 +481,6 @@ http://ps3u.ga/m3u/Lista02Peliculas/unmalviaje/index.mp4
 http://ps3u.ga/m3u/Lista02Peliculas/buscandoasteve/index.mp4
 #EXTINF: -1 tvg-chno="39" tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELÍCULAS ON DEMAND", EL CAPITAN
 http://ps3u.ga/m3u/Lista02Peliculas/elcapitan/index.mp4
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514726.jpeg" group-title="XXX", XXL
-http://50.7.164.28:8081/30/index.m3u8
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514727.png" group-title="XXX", HUSTER
-http://50.7.164.28:8081/30/index.m3u8
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514728.png" group-title="XXX", REDLIGHT
-http://50.7.164.28:8081/30/index.m3u8
-#EXTINF: -1 tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514770.png" group-title="XXX", PRIVATE
-http://50.7.164.28:8081/30/index.m3u8
-#EXTINF: -1 tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316515023.png" group-title="XXX", BRAZZERS Europe
-http://50.7.164.28:8081/30/index.m3u8
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514726.jpeg" group-title="XXX", XXL
-http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1623641653p89i18i561i28S3eb884b8d2f144ce9b6d69c11aa37daf
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514727.png" group-title="XXX", HUSTER
-http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1623641653p89i18i561i28S3eb884b8d2f144ce9b6d69c11aa37daf
-#EXTINF: -1 tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514728.png" group-title="XXX", REDLIGHT
-http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1623641653p89i18i561i28S3eb884b8d2f144ce9b6d69c11aa37daf
-#EXTINF: -1 tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514770.png" group-title="XXX", PRIVATE
-http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1623641653p89i18i561i28S3eb884b8d2f144ce9b6d69c11aa37daf
-#EXTINF: -1 tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316515023.png" group-title="XXX", BRAZZERS Europe
-http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1623641653p89i18i561i28S3eb884b8d2f144ce9b6d69c11aa37daf
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="CULTURALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-chno="2" tvg-logo="http://ondemo.tmsimg.com/assets/p18445172_b_v5_ad.jpg" group-title="CULTURALES", UNEARTH
@@ -571,8 +533,6 @@ https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF: -1 tvg-chno="6" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA", RETROPLUS TV 2 (LATINOS)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF: -1 tvg-chno="6" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733145/312566910.png" group-title="MUSICA", 1HD Music
-https://m3u-editor.com/serve/4c21c8e0-c85f-11eb-999e-6193af4a9369/312566910
 #EXTINF: -1 tvg-chno="7" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSICA", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF: -1 tvg-chno="7" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c21c8e0-c85f-11eb-999e-6193af4a9369/1733145/312566881.webp" group-title="MUSICA", WHAM MUSICA
