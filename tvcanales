@@ -1,2 +1,35 @@
 # Listastv
 IPTV-Villa Maria
+#EXTM3U 
+#EXTINF: -1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-chno="4" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas", El Toro TV
+https://live1-eltorotv.flumotion.com/playlist.m3u8
+#EXTINF: -1 tvg-id="24Horas.TV" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos", 24h
+https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
+#EXTINF: -1 tvg-id="24Horas.TV" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos", 24h
+https://rtvelivestream.akamaized.net/24h_bkp_dvr.m3u8
+#EXTINF: -1 tvg-id="RTESP.TV" tvg-name="RT" tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200" group-title="Informativos", RT
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF: -1 tvg-name="CNN Internacional" tvg-logo="https://graph.facebook.com/CNNee/picture?width=320&height=320" group-title="Int. Europa", CNN Internacional
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-id="RaiN.TV" tvg-name="Rai News 24 Italia" tvg-logo="https://graph.facebook.com/rainews.it/picture?width=200&height=200" group-title="Int. Europa", Rai News 24 Italia IT
+https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF: -1 tvg-name="CBS News USA" tvg-logo="https://graph.facebook.com/CBSNews/picture?width=200&height=200" group-title="Int. América", CBS News USA EN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF: -1 tvg-name="Entertainment Tonight USA" tvg-logo="https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200" group-title="Int. América", Entertainment Tonight USA EN
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF: -1 tvg-name="Noticias Caracol Colombia" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" group-title="Int. América", Noticias Caracol Colombia
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF: -1 tvg-name="Unicanal Paraguay" tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="Int. América", Unicanal Paraguay
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF: -1 tvg-name="Miami TV" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros", Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514726.jpeg" group-title="XXX", XXL
+http://50.7.164.28:8081/30/index.m3u8
+#EXTINF: -1 tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514727.png" group-title="XXX", HUSTER
+http://50.7.164.28:8081/30/index.m3u8
+#EXTINF: -1 tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514728.png" group-title="XXX", REDLIGHT
+http://50.7.164.28:8081/30/index.m3u8
+#EXTINF: -1 tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316514770.png" group-title="XXX", PRIVATE
+http://50.7.164.28:8081/30/index.m3u8
+#EXTINF: -1 tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/7a10bed0-ccb8-11eb-bac8-8b08603ac145/1755469/316515023.png" group-title="XXX", BRAZZERS Europe
+http://50.7.164.28:8081/30/index.m3u8
